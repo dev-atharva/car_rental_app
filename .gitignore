@@ -1,0 +1,5 @@
+car_rentals_backend/venv
+node_modules/
+car_rentals_backend/.env
+car_rentals_backend/__pycache__/
+car_rentals_backend/dist
